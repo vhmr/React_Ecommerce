@@ -1,2 +1,4 @@
 # React_Ecommerce
-challenge sobr ecommerce
+challenge sobre ecommerce
+
+desarrollado con Commerce.js, material-ui, reacthook-form
